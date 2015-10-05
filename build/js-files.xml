@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="js files">
+<filelist id="js.files" dir="${dir.base}">
+  <!-- Librairies js -->
+  <file name="${dir.base}/assets/js/vendor/jquery-2.1.4.min.js"/>
+  <file name="${dir.base}/assets/js/vendor/modernizr-custom-2.7.1.min.js"/>
+
+  <!-- Time Fly js -->
+  <file name="${dir.base}/assets/js/timeFly.js"/>
+  <file name="${dir.base}/assets/js/Fly.js"/>
+  <file name="${dir.base}/assets/js/FlyView.js"/>
+  <file name="${dir.base}/assets/js/Swarm.js"/>
+  <file name="${dir.base}/assets/js/SwarmView.js"/>
+  
+</filelist>
+</project>
